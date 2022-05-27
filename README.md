@@ -1,2 +1,2 @@
 # Album
-The album of A lovely pig
+The album of a lovely pig
